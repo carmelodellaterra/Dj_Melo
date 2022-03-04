@@ -20,7 +20,7 @@ test {
     useJUnitPlatform()
 }
 
-task stage(dependsOn: ['build', 'shadowJar', 'clean'])
+task stage(dependsOn: ['build', 'clean'])
 build.mustRunAfter clean
 
 jar{
