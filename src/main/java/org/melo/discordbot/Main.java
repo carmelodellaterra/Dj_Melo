@@ -4,8 +4,6 @@ import org.javacord.api.DiscordApi;
 import org.javacord.api.DiscordApiBuilder;
 import org.melo.discordbot.utils.ConfigManager;
 import org.melo.discordbot.utils.commandConfig.MessageManager;
-import com.moandjiezana.toml.Toml;
-
 import java.io.File;
 
 public class Main {

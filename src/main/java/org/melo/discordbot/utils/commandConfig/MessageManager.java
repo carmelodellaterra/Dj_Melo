@@ -3,7 +3,6 @@ package org.melo.discordbot.utils.commandConfig;
 import org.javacord.api.event.message.MessageCreateEvent;
 import org.melo.discordbot.Main;
 import org.melo.discordbot.utils.commandConfig.commands.CommandPing;
-
 import java.util.Arrays;
 
 public class MessageManager {
