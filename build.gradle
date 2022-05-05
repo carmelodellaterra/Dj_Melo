@@ -22,9 +22,3 @@ test {
 
 task stage(dependsOn: ['build', 'clean'])
 build.mustRunAfter clean
-
-jar{
-    manifest {
-        attributes 'Class-Path': '/libs/dj-melo.jar', 'Main-Class': 'org.melo.discordbot.Main'
-    }
-}
