@@ -1,8 +1,8 @@
-package org.melo.discordbot.utils.commandConfig.commands;
+package org.melo.discordbot.commandConfig.commands;
 
 import org.javacord.api.event.message.MessageCreateEvent;
-import org.melo.discordbot.utils.commandConfig.Command;
-import org.melo.discordbot.utils.commandConfig.CommandExecutor;
+import org.melo.discordbot.commandConfig.Command;
+import org.melo.discordbot.commandConfig.CommandExecutor;
 
 public class CommandPing implements CommandExecutor {
     @Override

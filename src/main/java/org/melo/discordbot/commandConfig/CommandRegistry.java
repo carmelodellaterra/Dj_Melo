@@ -1,4 +1,4 @@
-package org.melo.discordbot.utils.commandConfig;
+package org.melo.discordbot.commandConfig;
 
 import java.util.ArrayList;
 import java.util.Arrays;

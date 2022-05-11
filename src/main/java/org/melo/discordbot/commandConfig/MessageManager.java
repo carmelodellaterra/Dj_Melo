@@ -1,10 +1,10 @@
-package org.melo.discordbot.utils.commandConfig;
+package org.melo.discordbot.commandConfig;
 
 import org.javacord.api.event.message.MessageCreateEvent;
 import org.melo.discordbot.Main;
-import org.melo.discordbot.utils.commandConfig.commands.CommandHelp;
-import org.melo.discordbot.utils.commandConfig.commands.CommandPing;
-import org.melo.discordbot.utils.commandConfig.commands.CommandPlay;
+import org.melo.discordbot.commandConfig.commands.CommandHelp;
+import org.melo.discordbot.commandConfig.commands.CommandPing;
+import org.melo.discordbot.commandConfig.commands.CommandPlay;
 
 import java.util.Arrays;
 

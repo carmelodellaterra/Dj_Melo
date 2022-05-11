@@ -1,4 +1,4 @@
-package org.melo.discordbot.utils.commandConfig;
+package org.melo.discordbot.commandConfig;
 
 import org.javacord.api.event.message.MessageCreateEvent;
 

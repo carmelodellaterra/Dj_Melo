@@ -1,4 +1,4 @@
-package org.melo.discordbot.utils.commandConfig;
+package org.melo.discordbot.commandConfig;
 
 public class Command {
     private String id;
